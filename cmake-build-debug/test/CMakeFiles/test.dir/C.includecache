@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Marc-Olivier/Desktop/ETS/ETE2021/ELE749-01/atelier4/test/test.c
+stddef.h
+-
+unity/unity.h
+C:/Users/Marc-Olivier/Desktop/ETS/ETE2021/ELE749-01/atelier4/test/unity/unity.h
+unity/solution_c_bas_niveau.c
+C:/Users/Marc-Olivier/Desktop/ETS/ETE2021/ELE749-01/atelier4/test/unity/solution_c_bas_niveau.c
+
+C:/Users/Marc-Olivier/Desktop/ETS/ETE2021/ELE749-01/atelier4/test/unity/solution_c_bas_niveau.c
+
+C:/Users/Marc-Olivier/Desktop/ETS/ETE2021/ELE749-01/atelier4/test/unity/unity.h
+unity_internals.h
+C:/Users/Marc-Olivier/Desktop/ETS/ETE2021/ELE749-01/atelier4/test/unity/unity_internals.h
+
+C:/Users/Marc-Olivier/Desktop/ETS/ETE2021/ELE749-01/atelier4/test/unity/unity_internals.h
+unity_config.h
+C:/Users/Marc-Olivier/Desktop/ETS/ETE2021/ELE749-01/atelier4/test/unity/unity_config.h
+setjmp.h
+-
+math.h
+-
+stddef.h
+-
+stdarg.h
+-
+stdint.h
+-
+limits.h
+-
+stdio.h
+-
+stdio.h
+-
+time.h
+-
+time.h
+-
+
