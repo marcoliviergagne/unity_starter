@@ -15,6 +15,8 @@ void test_strlen_p(void)
 
     TEST_ASSERT_INT_WITHIN(0,16, strlen_p("calculmalongueur"));
 
+    // alllloooo
+
 }
 
 int main (void)
